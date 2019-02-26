@@ -1,0 +1,32 @@
+Configure miss: shm_open
+Configure miss: psm.h usability
+Configure miss: psm.h presence
+Configure miss: psm.h
+Configure miss: psm2.h usability
+Configure miss: psm2.h presence
+Configure miss: psm2.h
+Configure miss: psm2.h usability
+Configure miss: psm2.h presence
+Configure miss: psm2.h
+Configure miss: psm2.h usability
+Configure miss: psm2.h presence
+Configure miss: psm2.h
+Configure miss: psm2.h usability
+Configure miss: psm2.h presence
+Configure miss: psm2.h
+Configure miss: psm2.h usability
+Configure miss: psm2.h presence
+Configure miss: psm2.h
+Configure miss: infiniband/verbs.h usability
+Configure miss: infiniband/verbs.h presence
+Configure miss: infiniband/verbs.h
+Configure miss: infiniband/verbs_exp.h usability
+Configure miss: infiniband/verbs_exp.h presence
+Configure miss: infiniband/verbs_exp.h
+Configure miss: rdma/rdma_cma.h usability
+Configure miss: rdma/rdma_cma.h presence
+Configure miss: rdma/rdma_cma.h
+Configure miss: ucp/api/ucp.h usability
+Configure miss: ucp/api/ucp.h presence
+Configure miss: ucp/api/ucp.h
+Configure miss: direct bgq provider
