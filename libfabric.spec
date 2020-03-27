@@ -4,7 +4,7 @@
 #
 Name     : libfabric
 Version  : 1.7.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/ofiwg/libfabric/releases/download/v1.7.0/libfabric-1.7.0.tar.gz
 Source0  : https://github.com/ofiwg/libfabric/releases/download/v1.7.0/libfabric-1.7.0.tar.gz
 Summary  : User-space RDMA Fabric Interfaces
